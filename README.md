@@ -4,7 +4,7 @@ Sistem absensi kelas
 <img width="709" height="662" alt="image" src="https://github.com/user-attachments/assets/01634adc-7564-4873-8180-f0785068455a" />
 <img width="711" height="204" alt="image" src="https://github.com/user-attachments/assets/f4b29709-c23b-4507-b11d-b8b08519fcf4" />
 
-Kode dari Penambahan data absensi, menggunakan not in dan != untuk pengecekan data true atau false
+Kode dari Penambahan data absensi, menggunakan not in dan != untuk pengecekan data true atau false, serta looping while untuk memulai perulangan dari menu pilihan
 
 <img width="556" height="204" alt="image" src="https://github.com/user-attachments/assets/fec1948f-ed5e-4070-85c1-a749cf7b87d5" />
 
