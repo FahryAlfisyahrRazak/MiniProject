@@ -27,3 +27,7 @@ Kode dan output pilihan 4, menggunakan pop untuk menghapus data yang sudah ada d
 Kode dan output pilihan ke 5, menggunakan break untuk mengakhiri looping while
 
 serta else untuk output diatas 1-5 yang mengeluarkan output bahwa nomor itu tidak valid
+
+
+<img width="890" height="508" alt="image" src="https://github.com/user-attachments/assets/2dd67d20-f6ba-47f7-8af3-0a78d14ff4f3" />
+Flowchart cara kerja program
